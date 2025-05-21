@@ -1,1 +1,2 @@
 # serachjob_ai_agent
+The provided notebook is a simple solution to help with the job search. An AI agent is responsible for searching a job that ressembls to the description provided in the prompt and will help with generating the perfect cover letter and adapt your CV to the position. It can also provide the text to send to the recruiter. In this project I used a Mistral Model and Talivy to search for jobs in web.
